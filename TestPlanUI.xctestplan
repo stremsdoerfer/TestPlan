@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "4AFB14D2-53E2-4C6F-A791-427DBF6C0829",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TestPlan.xcodeproj",
+        "identifier" : "5D15239929E47E8100F9DD05",
+        "name" : "TestPlanUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

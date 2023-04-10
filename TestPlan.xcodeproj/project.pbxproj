@@ -44,6 +44,8 @@
 		5D15239A29E47E8100F9DD05 /* TestPlanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestPlanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D15239E29E47E8100F9DD05 /* TestPlanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestPlanUITests.swift; sourceTree = "<group>"; };
 		5D1523A029E47E8100F9DD05 /* TestPlanUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestPlanUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5D1523AD29E47E9800F9DD05 /* TestPlanUI.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlanUI.xctestplan; sourceTree = "<group>"; };
+		5D1523AE29E47EBB00F9DD05 /* TestPlanUnit.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlanUnit.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,8 @@
 		5D15237729E47E7F00F9DD05 = {
 			isa = PBXGroup;
 			children = (
+				5D1523AE29E47EBB00F9DD05 /* TestPlanUnit.xctestplan */,
+				5D1523AD29E47E9800F9DD05 /* TestPlanUI.xctestplan */,
 				5D15238229E47E7F00F9DD05 /* TestPlan */,
 				5D15239329E47E8100F9DD05 /* TestPlanTests */,
 				5D15239D29E47E8100F9DD05 /* TestPlanUITests */,
